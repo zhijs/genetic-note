@@ -9,3 +9,4 @@ https://www.geenmedical.com/
 
 # 相关技术博客
 - [基因家族分析（1）——基因家族成员的确定②](https://zhuanlan.zhihu.com/p/360574668)
+-[:illumina测序原理](https://zhuanlan.zhihu.com/p/190757472)
