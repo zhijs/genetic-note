@@ -1,6 +1,7 @@
 # 学习地址
-https://www.geenmedical.com/
+https://www.geenmedical.com/  
 
+[生物学信息实践](http://www.biotrainee.com/jmzeng/book/basic/)  
 
 # 相关文章
 - [ ] A systems view of genetics in chronic kidney disease.
